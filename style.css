@@ -1,0 +1,38 @@
+#welcome {
+    text-align:center;
+}
+
+#aboutreviews {
+    text-align:left;
+}
+
+#schooltitle {
+    font-size:50px;
+}
+#schoolsubtitle {
+    font-size:20px;
+    color:darkkhaki;
+    font-weight:bold;
+}
+
+.menu {
+    list-style:none;
+    position:absolute;
+    top:5px;
+    left:10px;
+    cursor:pointer;
+    z-index:10;
+}
+
+#contactstyle {
+    font-size:30px;
+    color:darkslateblue;
+}
+#schoolimg {
+    width:765px;
+    height:530px;
+   
+}
+#contact {
+    text-align:center;
+}
